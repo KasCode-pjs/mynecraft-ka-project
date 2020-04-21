@@ -1,4 +1,4 @@
-# mynecraft-ka-project
+# Minecraft on Khan Academy
 This is an attempt to recreate minecraft using a 3D raycasting method.
 The current demo is here:
 [![Demo thumbnail](https://www.khanacademy.org/computer-programming/minecraft-demo/6296110573961216/latest.png)](https://www.khanacademy.org/computer-programming/minecraft-demo/6296110573961216)
